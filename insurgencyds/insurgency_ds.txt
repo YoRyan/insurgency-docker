@@ -1,0 +1,4 @@
+login anonymous
+force_install_dir /srv/insurgency/insurgency_ds
+app_update 237410
+quit
